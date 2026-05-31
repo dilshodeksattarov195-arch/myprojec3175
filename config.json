@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvelete",
+        "uuid": 1263650,
+        "checksum": "5td1s8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
